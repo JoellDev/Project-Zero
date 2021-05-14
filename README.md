@@ -2,7 +2,7 @@
 Creating a personal first project, this project is a generic text editor application on windows using Java as it's language
 
 ## Tasks
-- [ ] Step 1: Create a runnable application using Java on Windows
+- [ ] Step 1: Create a runnable DESKTOP application using Java on Windows
 - [ ] Step 2: Create a text editor using Java
 - [ ] Step 3: Insert the text editor code into the application from **step 1**
 - [ ] Step 4: Finishing Touches(Documentation, notes, sources, etc.
